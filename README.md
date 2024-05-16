@@ -1,6 +1,6 @@
 Your repo should contain a readme that describes what the game is and contains the group members’ names who had worked on the game.
 Members:
-Santiago Perez
+Santiago Perez,
 Samuel Elizarraras
 
 The game we created was a 2d Platformer that is set in a more cyberpunk setting, we have deciced on the name WildMan. While we got a lot of work on it its still in early development
